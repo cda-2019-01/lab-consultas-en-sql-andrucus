@@ -3,3 +3,6 @@
 ## de la tabla tbl1
 ## 
 
+select sum(c12) from tbl1;
+
+
